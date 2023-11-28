@@ -1,1 +1,1 @@
-# Digit-Recognizer-from-scratch-
+# Digit-Recognizer (from scratch)
